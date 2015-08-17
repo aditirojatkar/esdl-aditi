@@ -2,8 +2,10 @@
 using namespace std;
 int main()
 {
-int a;
+int a,b;
 a=2+2;
-cout<<a;
+b=4-3;
+cout<<a<<endl;
+cout<<b<<endl;
 return 0;
 }
